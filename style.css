@@ -143,37 +143,5 @@
     color: #663300;
     font-size: 14px;
     cursor: pointer;
-  }
-  .gif-deco {
-    font-size: 22px;
-  }
-  hr {
-    border: none;
-    border-top: 3px dashed #cc9900;
-  }
-  a.enlace {
-    color: #0000cc;
-  }
-  .badge {
-    display: inline-block;
-    background: #fff;
-    border: 1px solid #999;
-    padding: 4px 8px;
-    margin: 2px;
-    font-size: 11px;
-  }
-  .alma-overlay {
-    position: relative;
-    width: 900px;
-    margin: 0 auto;
-    height: 1000px;
-    pointer-events: none;
-    overflow: hidden;
-  }
-  .alma-overlay span {
-    position: absolute;
-    font-family: "Brush Script MT", cursive, "Comic Sans MS";
-    color: rgba(0, 0, 0, 1);
-    font-weight: bold;
-    white-space: nowrap;
+
   }
